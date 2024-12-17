@@ -8,14 +8,14 @@ Possible files to be used: ics202 Objectives, ics203 Assignment List, ics204 Ass
         a) This is the form used in teh 2024 SET
 ###    3) README.md
         a) This file
-    4) Scenario - Winter Field Day Event.docx
+###    4) Scenario - Winter Field Day Event.docx
         a) This is a part page scenario used in the 2024 SET
         b) This may be added to.
-    5) UtahCountyWinlink.pdf
+###    5) UtahCountyWinlink.pdf
         a) This is the presentation given by Jeff Ballif about the use of winlink
-    6) Winlink Introductions.pdf
+###    6) Winlink Introductions.pdf
         a) This is the presentation by Gary Hutton for helping others learn about winlink, Excellent
-    7) Winlink on Winter Field Day in 2025.pdf
+###    7) Winlink on Winter Field Day in 2025.pdf
         a) This is the Flyer to pass out to everyone for 2025
-    8) WinterFieldDayResults.jpg
+###    8) WinterFieldDayResults.jpg
         a) These are the results from 2024 SET
