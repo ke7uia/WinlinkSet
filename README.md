@@ -1,7 +1,8 @@
 # WinlinkSet
-##Files necessary for operating a SET or winlink activity
+
+## Files necessary for operating a SET or winlink activity
 Possible files to be used: ics202 Objectives, ics203 Assignment List, ics204 Assignment List, ics205 Radio plan
-##Files used in this:
+## Files used in this:
 ###    1) ICS-202 WinlinkWinterFieldDay24.pdf
         a) This is the form used in the 2024 SET
 ###    2) ICS205 WinlinkWinterFieldDay24.pdf
